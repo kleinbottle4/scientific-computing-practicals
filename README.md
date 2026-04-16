@@ -1,7 +1,9 @@
 # scientific-computing-practicals
 C++, MPI
 
-Compressible CFD practicals are here at https://gitlab.com/ahmedshah5/fluid-dynamics
+For up-to-date versions:
+
+Compressible CFD practicals are at https://gitlab.com/ahmedshah5/fluid-dynamics
 
 MPI practicals are at https://gitlab.com/ahmedshah5/mpi-practicals#
 
